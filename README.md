@@ -4,13 +4,17 @@
   clean code.
 
   🛠️  Tech Stack
+  
   • Java • Spring Framework • MongoDB • PostgreSQL
 
-  📦 Side Projects
+  📦 Side Projects:
+  
   • 🔍 MongoDB Performance Monitor — Real-time database monitoring tool for performance analysis, bottleneck detection, and query optimization.
   Features MCP integration for rapid index creation and automated query analysis.
+  
   • 🎫 Ticket Market Intelligence — Private application for monitoring and analyzing ticket resale platforms, featuring real-time price tracking
    and automated deal detection.
 
   💡 Interests
+  
   Backend architecture • Database optimization • Automation • AgTech
