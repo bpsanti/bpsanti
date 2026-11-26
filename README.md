@@ -1,20 +1,22 @@
-  🚀 Senior Backend Engineer | 8+ years at Aegro
+## Senior Backend Engineer · 8+ years at Aegro
 
-  Building scalable solutions for agriculture technology. Passionate about performance, distributed systems, and turning complex problems into
-  clean code.
+Building scalable solutions for agriculture technology.
+Passionate about performance, distributed systems, and turning complex problems into clean code.
 
-  🛠️  Tech Stack
-  
-  • Java • Spring Framework • MongoDB • PostgreSQL
+### Now building
 
-  📦 Side Projects:
-  
-  • 🔍 MongoDB Performance Monitor — Real-time database monitoring tool for performance analysis, bottleneck detection, and query optimization.
-  Features MCP integration for rapid index creation and automated query analysis.
-  
-  • 🎫 Ticket Market Intelligence — Private application for monitoring and analyzing ticket resale platforms, featuring real-time price tracking
-   and automated deal detection.
+| Project | What it does |
+| --- | --- |
+| [noonsight](https://github.com/bpsanti/noonsight) | Per-model rules for Claude Code sessions and subagents: every model has its own north. |
+| [kharos](https://github.com/bpsanti/kharos) | Launch and follow Claude Code cloud sessions from any terminal session. |
+| [shipmate](https://github.com/bpsanti/shipmate) | A small local dashboard for [Firstmate](https://github.com/kunchenguid/firstmate): quota, agents, queue and token use. |
+| [atlas-monitor](https://github.com/bpsanti/atlas-monitor) | A monitor for MongoDB Atlas metrics. |
+| Ticket Market Intelligence (private) | Monitors ticket resale platforms, with real-time price tracking and automated deal detection. |
 
-  💡 Interests
-  
-  Backend architecture • Database optimization • Automation • AgTech
+### Stack
+
+Java · Spring · MongoDB · PostgreSQL · TypeScript · Node.js
+
+### Interests
+
+Backend architecture · Database optimization · Automation · Agentic Development
