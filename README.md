@@ -1,4 +1,4 @@
-## Senior Backend Engineer · 8+ years
+## Senior Backend Engineer
 
 Java · Spring Boot · Software Architecture · Agentic Development<br>
 Passionate about performance, architecture, and turning complex problems into clean code.
