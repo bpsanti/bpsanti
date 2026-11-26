@@ -1,6 +1,6 @@
 ## Senior Backend Engineer · 8+ years at Aegro
 
-Building scalable solutions for agriculture technology.
+Building scalable solutions for agriculture technology.<br>
 Passionate about performance, distributed systems, and turning complex problems into clean code.
 
 ### Now building
